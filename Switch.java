@@ -4,7 +4,7 @@ public class Switch{
         Scanner sc=new Scanner(System.in);
         System.out.println("Please input a number between 1-7");
         int day=sc.nextInt();
-
+//Test Switch
         String weekday="";
         switch(day){
             default:
